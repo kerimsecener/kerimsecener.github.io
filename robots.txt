@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kerimsecener.github.io/sitemap.xml
+Sitemap: https://kerimsecener.github.iokerimsecener.github.io/sitemap.xml
