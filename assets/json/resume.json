@@ -1,11 +1,10 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Ali Kerim Seçener",
+    "label": "Computational Biologist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "alikerim.secener@mdc-berlin.de, ali-kerim.secener@bih-charite.de",
+    "url": "https://kerimsecener.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
