@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 2nd March 1994
     - name: Languages
-      value: English (C2), French (Native), Turkish (Native), Spanish (B1), German (A2)
+      value: English, French
 
 - title: Education
   type: time_table
