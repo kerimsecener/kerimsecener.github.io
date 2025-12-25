@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ali Kerim Seçener
     - name: Date of Birth
-      value: 14th March 1879
+      value: 2nd March 1994
     - name: Languages
-      value: English, German
+      value: English (C2), French (Native), Turkish (Native), Spanish (B1), German (A2)
 
 - title: Education
   type: time_table
