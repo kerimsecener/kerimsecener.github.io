@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: kerim_secener.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Berlin Institute of Health (BIH)</p>
-    <p>Bertolt-Brecht-Platz 3</p>
-    <p>Berlin, 10117</p>
+    <p>alikerim.secener@mdc-berlin.de</p>
+    <p>ali-kerim.secener@bih-charite.de</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-# About
 
 I am a computational biologist with a PhD in Biochemistry. I received extensive
 training in wet-lab molecular biology, but over the course of my PhD, my research
