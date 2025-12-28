@@ -45,7 +45,7 @@ through multiple research internships.
 
 At the [Helmholtz Institute for RNA-based Infection Research (HIRI)](https://www.helmholtz-hiri.de/en/) in Würzburg, I worked under the supervision of [Dr. Saliba](https://www.helmholtz-hiri.de/en/research/organisation/teams/team/single-cell-analysis/), focusing on the implementation of a wet-lab protocol for [single-bacterium RNA sequencing](https://doi.org/10.1038/s41564-020-0774-1).
 
-I then completed another internship at the Columbia University Irving Medical Center (CUIMC) in [Dr. Han’s lab (https://www.arnoldhanlab.com/) in New York, where I contributed to establishing sample multiplexing strategies later used to link distinct T cell states to clinical prognosis in colorectal cancer patients.
+I then completed another internship at the Columbia University Irving Medical Center (CUIMC) in [Dr. Han’s lab](https://www.arnoldhanlab.com/) in New York, where I contributed to establishing sample multiplexing strategies later used to link distinct T cell states to clinical prognosis in colorectal cancer patients.
 
 Following this, I pursued my PhD at the [Berlin Institute for Medical Systems Biology (BIMSB)](https://www.mdc-berlin.de/bimsb) within the [Genomics Technology Platform](https://www.mdc-berlin.de/genomics). My doctoral research focused on adrenal gland biology, combining single-nucleus and spatial transcriptomics to study both development and disease.
 
