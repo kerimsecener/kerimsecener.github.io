@@ -184,6 +184,7 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _includes/footer.liquid
 keep_files:
   - CNAME
   - .nojekyll
