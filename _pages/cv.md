@@ -1,11 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: Resume
+layout: default
+permalink: assets/pdf/CV_ALIKERIMSECENER_2026_2.pdf
+title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_ALIKERIMSECENER_2026_2.pdf # you can also use external links here
-description:
-toc:
-  sidebar: left
 ---
