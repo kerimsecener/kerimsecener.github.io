@@ -185,6 +185,8 @@ exclude:
   - readme_preview/
   - vendor
   - _includes/footer.liquid
+  - _pages/teaching.md
+  - _pages/profiles.md
 keep_files:
   - CNAME
   - .nojekyll
