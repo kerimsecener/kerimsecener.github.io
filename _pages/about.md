@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: kerim_secener.jpg
+  image: kerim_secener_final.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>alikerim.secener@mdc-berlin.de</p>
