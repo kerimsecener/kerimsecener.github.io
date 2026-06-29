@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   VXLvVYoAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Single-nuclei transcriptome of adult human adrenal glands reveals novel insights into molecular mechanisms intrinsic to adrenocortical tumourigenesis and cortisol secretion
     year: '2022'
   VXLvVYoAAAAJ:eQOLeE2rZwMC:
-    citations: 22
+    citations: 23
     title: "Single\u2010nucleus and spatial transcriptome reveal adrenal homeostasis in normal and tumoural adrenal glands"
     year: '2024'
   VXLvVYoAAAAJ:roLk4NBRz8UC:
@@ -62,7 +62,7 @@ papers:
     title: Multiplexed single-cell analysis reveals prognostic and nonprognostic T cell types in human colorectal cancer
     year: '2022'
   VXLvVYoAAAAJ:ufrVoPGSRksC:
-    citations: 30
+    citations: 31
     title: Senescent syncytiotrophoblast secretion during early onset preeclampsia
     year: '2025'
   VXLvVYoAAAAJ:zYLM7Y9cAGgC:
